@@ -1,5 +1,7 @@
 # Hi 👋, I'm Teja
 
+<img align="right" alt="Coding" width="350" src="./coding.gif">
+
 ### Linux Kernel & Backporting Engineer
 
 I'm a Software Engineer working on **Linux Kernel development, backporting, AMD P-State, CPPC, KABI, and kernel testing**.
